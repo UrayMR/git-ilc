@@ -1,1 +1,9 @@
-ini isinya html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ikan Hiu Makan Tomat</title>
+</head>
+<body>
+    <h1>Ikan Hiu Makan Tomat</h1>
+</body>
+</html>
